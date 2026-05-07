@@ -91,3 +91,5 @@ Plate-solving context for this image:
 
 二次验证是把原图和增强图同时发给Gemini，让它做对比校验，这样能及时发现AI是否"画多了"。
 
+
+增加星座绘图预设的增值业务
